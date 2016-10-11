@@ -1,0 +1,3 @@
+rootProject.name = 'appGerenciador'
+
+include ':app'
